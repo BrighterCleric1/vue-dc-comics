@@ -132,6 +132,10 @@ export default {
           color: #bbb;
           text-decoration: none;
           font-size: 12px;
+          &:hover {
+            cursor: pointer;
+            text-decoration: underline;
+          }
         }
       }
     }

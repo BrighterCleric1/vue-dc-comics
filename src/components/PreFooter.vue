@@ -67,6 +67,9 @@ export default {
           a {
             text-decoration: none;
             color: #fff;
+            &:hover {
+              text-decoration: underline;
+            }
           }
         }
         .button-img {

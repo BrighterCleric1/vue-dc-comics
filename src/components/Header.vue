@@ -49,10 +49,11 @@ header {
       height: 115px;
       color: $h-color;
       li {
-        font-size: 20px;
+        font-size: 15px;
         line-height: 115px;
         height: 100%;
         margin: 0 15px;
+        font-weight: bold;
         &:hover {
           cursor: pointer;
           color: $blue;
